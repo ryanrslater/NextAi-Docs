@@ -2,7 +2,7 @@ import{_ as s,c as a,o as n,d as e}from"./app.eb1837e4.js";const h=JSON.parse('{
 <span class="line"><span style="color:#A6ACCD;"></span></span>
 <span class="line"><span style="color:#A6ACCD;">export default NextAi({</span></span>
 <span class="line"><span style="color:#A6ACCD;">    Providers: {</span></span>
-<span class="line"><span style="color:#A6ACCD;">        NextAi: {</span></span>
+<span class="line"><span style="color:#A6ACCD;">        OpenAi: {</span></span>
 <span class="line"><span style="color:#A6ACCD;">            apiKey: p<wbr>rocess.env.OPENAI</span></span>
 <span class="line"><span style="color:#A6ACCD;">        }</span></span>
 <span class="line"><span style="color:#A6ACCD;">    }</span></span>
@@ -45,7 +45,7 @@ import{_ as s,c as a,o as n,d as e}from"./app.eb1837e4.js";const h=JSON.parse('{
 <span class="line"><span style="color:#A6ACCD;"></span></span>
 <span class="line"><span style="color:#A6ACCD;">export default NextAi({</span></span>
 <span class="line"><span style="color:#A6ACCD;">    Providers: {</span></span>
-<span class="line"><span style="color:#A6ACCD;">        NextAi: {</span></span>
+<span class="line"><span style="color:#A6ACCD;">        OpenAi: {</span></span>
 <span class="line"><span style="color:#A6ACCD;">            apiKey: p<wbr>rocess.env.OPENAI</span></span>
 <span class="line"><span style="color:#A6ACCD;">        }</span></span>
 <span class="line"><span style="color:#A6ACCD;">    },</span></span>

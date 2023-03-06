@@ -21,7 +21,7 @@ import NextAi from 'nextai';
 
 export default NextAi({
     Providers: {
-        NextAi: {
+        OpenAi: {
             apiKey: process.env.OPENAI
         }
     }
@@ -85,7 +85,7 @@ import NextAi from 'nextai';
 
 export default NextAi({
     Providers: {
-        NextAi: {
+        OpenAi: {
             apiKey: process.env.OPENAI
         }
     },
