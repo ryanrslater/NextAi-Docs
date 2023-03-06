@@ -77,7 +77,6 @@ export default function Home() {
 
 ### Authentication
 
-TODO....
 
 Authentication is simple with NextAi, all you have to do is pass the type of Auth provider, and if a user is not returned by the provider, they will not be able to access your service.
 
